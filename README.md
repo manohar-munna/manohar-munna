@@ -39,13 +39,13 @@
 
 <!-- SOCIAL BADGES - GLASSY LOOK -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/manohar-mabbu/">
+  <a href="https://www.linkedin.com/in/manohar-mabbu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://twitter.com/thecartoonkid6">
+  <a href="https://twitter.com/thecartoonkid6" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30" />
   </a>
-  <a href="mailto:manoharmabbu@gmail.com">
+  <a href="mailto:manoharmabbu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
   </a>
 </div>
@@ -128,7 +128,7 @@
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2QlXq278Fp7VfXJ4/giphy.gif" width="350" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHFRb68q1JD9ks/giphy.gif" width="350" /> |
 | **Advanced Predictive Analytics Engine** | **Next-Gen Gym Management SaaS** |
 | `Python` `Machine Learning` `React` | `MERN Stack` `MongoDB` `Redux` |
-| <a href="https://predicthub-khaki.vercel.app/"><img src="https://img.shields.io/badge/View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
+| <a href="https://predicthub-khaki.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
 | [📂 **Explore Source Code**](https://github.com/manohar-munna/predithub) | [📂 **Explore Source Code**](https://github.com/manohar-munna/gym-client-pro) |
 
 </div>
