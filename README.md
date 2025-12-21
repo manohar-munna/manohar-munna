@@ -100,7 +100,7 @@ I am a seasoned developer focused on **scalable backend architectures** and **in
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2QlXq278Fp7VfXJ4/giphy.gif" width="300" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eW15bWx5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHFRb68q1JD9ks/giphy.gif" width="300" /> |
 | **Advanced Predictive Analytics Engine** | **Next-Gen Gym Management SaaS** |
 | Built with **Python, Machine Learning, React** | Built with **MERN Stack (MongoDB, Express, React, Node)** |
-| <a href="YOUR_PREDITHUB_LINK_HERE"><img src="https://img.shields.io/badge/View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="YOUR_GYM_CLIENT_LINK_HERE"><img src="https://img.shields.io/badge/View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
+| <a href="https://predicthub-khaki.vercel.app/"><img src="https://img.shields.io/badge/View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
 | [📂 View Source Code](https://github.com/manohar-munna/predithub) | [📂 View Source Code](https://github.com/manohar-munna/gym-client-pro) |
 
 </div>
