@@ -45,7 +45,7 @@
   <a href="https://twitter.com/thecartoonkid6" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30" />
   </a>
-  <a href="manoharmabbu@gmail.com">
+  <a href="mailto:manoharmabbu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
   </a>
 </div>
@@ -130,7 +130,7 @@
 | *Advanced Predictive Analytics Engine* | *Next-Gen Gym Management SaaS* |
 | `Python` `ML` `React` | `MERN Stack` `Redux` |
 | <a href="https://predicthub-khaki.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
-| [📂 **Source Code**](https://github.com/manohar-munna/predithub) | [📂 **Source Code**](https://github.com/manohar-munna/gym-client-pro) |
+| [📂 **Source Code**](https://github.com/manohar-munna/PredictHub) | [📂 **Source Code**](https://github.com/manohar-munna/gym-client-pro) |
 
 </div>
 
@@ -150,6 +150,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manohar-munna&layout=compact&theme=transparent&hide_border=true&text_color=9f9f9f&title_color=00bfff" height="175" />
 
 </div>
+<!-- CONTACT SECTION -->
+<h3 id="-connect" align="center">🤝 Let's Connect</h3>
+
+<div align="center">
+  <p><i>I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</i></p> 
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/manohar-mabbu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  &nbsp; &nbsp; <!-- Adds a little space between buttons -->
+
+  <!-- Gmail Badge (Direct Mailto) -->
+  <a href="mailto:manoharmabbu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-manoharmabbu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
+
+<br />
 
 <!-- FOOTER WITH ANIMATED SKYLINE -->
 <!-- We use 'Rect' type here for the bottom to create a solid ground effect -->
