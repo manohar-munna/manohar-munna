@@ -56,9 +56,9 @@
 <h3 id="-about-me" align="center">⚡ About Me</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" /> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" /> 
   <b>"I don't just write code; I engineer ecosystems."</b>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" />
 </div>
 
 <br />
@@ -127,7 +127,7 @@
 | <a href="https://predicthub-khaki.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://predicthub-khaki.vercel.app/" width="100%" alt="Predithub Live Preview" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://gym-pro-client.vercel.app/" width="100%" alt="Gym Client Pro Live Preview" /></a> |
 | :---: | :---: |
 | **🏆 Predithub** | **🏋️ Gym Client Pro** |
-| *Advanced Predictive Analytics Engine* | *Next-Gen Gym Management SaaS* |
+| *Advanced Prediction Market* | *Next-Gen Gym Management SaaS* |
 | `Python` `ML` `React` | `MERN Stack` `Redux` |
 | <a href="https://predicthub-khaki.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
 | [📂 **Source Code**](https://github.com/manohar-munna/PredictHub) | [📂 **Source Code**](https://github.com/manohar-munna/gym-client-pro) |
@@ -161,7 +161,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  &nbsp; &nbsp; <!-- Adds a little space between buttons -->
+  &nbsp; &nbsp; 
 
   <!-- Gmail Badge (Direct Mailto) -->
   <a href="mailto:manoharmabbu@gmail.com">
@@ -173,7 +173,6 @@
 <br />
 
 <!-- FOOTER WITH ANIMATED SKYLINE -->
-<!-- We use 'Rect' type here for the bottom to create a solid ground effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:0f9b0f&height=150&section=footer&text=Let's%20Build%20The%20Impossible&fontSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
   
