@@ -134,6 +134,18 @@
 
 </div>
 
+<div align="center">
+
+| <a href="https://warmyarn.com/"><img src="https://image.thum.io/get/width/600/crop/800/https://warmyarn.com" width="100%" alt="WarmYarn preview" /></a> | <a href="https://cmrhackfest.in"><img src="https://image.thum.io/get/width/600/crop/800/https://cmrhackfest.in" width="100%" alt="Hackfest.in" /></a> |
+| :---: | :---: |
+| **🏆WarmYarn** | **🏋️ CMR Hackfest** |
+| *E-commerce shop designer and multi-vendor app* | *Hackathon organiser website* |
+| `Python` `WebRTC` `Vite` | `MERN Stack` `Redux` |
+| <a href="https://warmyarn.com"><img src="https://img.shields.io/badge/Click_To_View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://cmrhackfest.in/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
+| [📂 **Source Code**](https://github.com/manohar-munna/warmyarn) | [📂 **Source Code**](https://github.com/manohar-munna/hackfest) |
+
+</div>
+
 ---
 
 <!-- ANALYTICS -->
