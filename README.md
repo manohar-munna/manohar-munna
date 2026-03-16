@@ -124,7 +124,7 @@
 
 <div align="center">
 
-| <a href="https://love-lens-ons.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://love-lens-one.vercel.app/" width="100%" alt="Love lens Live Preview" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://gym-pro-client.vercel.app/" width="100%" alt="Gym Client Pro Live Preview" /></a> |
+| <a href="https://love-lens-one.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://love-lens-one.vercel.app/" width="100%" alt="Love lens Live Preview" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://gym-pro-client.vercel.app/" width="100%" alt="Gym Client Pro Live Preview" /></a> |
 | :---: | :---: |
 | **🏆 love lens** | **🏋️ Gym Client Pro** |
 | *webRTC photo with synchronised communication* | *Next-Gen Gym Management SaaS* |
