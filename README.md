@@ -128,7 +128,7 @@
 | :---: | :---: |
 | **🏆 love lens** | **🏋️ Gym Client Pro** |
 | *webRTC photo with synchronised communication* | *Next-Gen Gym Management SaaS* |
-| `Python` `ML` `React` | `MERN Stack` `Redux` |
+| `Python` `WebRTC` `Vite` | `MERN Stack` `Redux` |
 | <a href="https://love-lens-one.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
 | [📂 **Source Code**](https://github.com/manohar-munna/LoveLens) | [📂 **Source Code**](https://github.com/manohar-munna/gym-client-pro) |
 
