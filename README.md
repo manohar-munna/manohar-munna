@@ -127,10 +127,10 @@
 | <a href="https://love-lens-ons.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://love-lens-one.vercel.app/" width="100%" alt="Love lens Live Preview" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://image.thum.io/get/width/600/crop/800/https://gym-pro-client.vercel.app/" width="100%" alt="Gym Client Pro Live Preview" /></a> |
 | :---: | :---: |
 | **🏆 love lens** | **🏋️ Gym Client Pro** |
-| *Advanced Prediction Market* | *Next-Gen Gym Management SaaS* |
+| *webRTC photo with synchronised communication* | *Next-Gen Gym Management SaaS* |
 | `Python` `ML` `React` | `MERN Stack` `Redux` |
-| <a href="https://predicthub-khaki.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
-| [📂 **Source Code**](https://github.com/manohar-munna/PredictHub) | [📂 **Source Code**](https://github.com/manohar-munna/gym-client-pro) |
+| <a href="https://love-lens-one.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-FF0000?style=for-the-badge&logo=vercel&logoColor=white" /></a> | <a href="https://gym-pro-client.vercel.app/"><img src="https://img.shields.io/badge/Click_To_View_Live_App-00C853?style=for-the-badge&logo=netlify&logoColor=white" /></a> |
+| [📂 **Source Code**](https://github.com/manohar-munna/LoveLens) | [📂 **Source Code**](https://github.com/manohar-munna/gym-client-pro) |
 
 </div>
 
